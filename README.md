@@ -1,5 +1,3 @@
-# Real World Flight Simulator
-
 Fighter Jet Flight Simulator
 ============================
 
