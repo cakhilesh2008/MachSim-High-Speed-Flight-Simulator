@@ -1,4 +1,4 @@
-Fighter Jet Flight Simulator
+MachSim: High Speed Flight Simulator
 ============================
 
 This project is a  flight simulator that uses CesiumJS to render the
